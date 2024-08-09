@@ -1,4 +1,4 @@
-**DEATH-RAPHAEL-BUG MULTI DEVICE WHATSAPP BOT**
+**DEATH-carnage-BUG MULTI DEVICE WHATSAPP BOT**
   </p>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l">
@@ -6,7 +6,7 @@
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASE+BY+DGXEON." alt="">
 </p>
-<h1 align="center"> DEATH-RAPHAEL-BUG </h1>
+<h1 align="center"> DEATH-carnage-BUG </h1>
 </h1>
 <p align="center"> Here's the channel support 
 <p align="center"> 
@@ -18,8 +18,8 @@
 ### **ALERTE ⚠️**
 please add the cred.json file to the session folder
 
- ### ℹ️ **ABOUT DEATH-RAPHAEL-BUG**
- Introducing Death-Raphael-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+ ### ℹ️ **ABOUT Death*
+ Introducing Death-carnage jace-bug , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
 `Ｆ•Ｅ•Ａ•Ｔ•Ｕ•Ｒ•Ｅ•Ｓ`
@@ -36,8 +36,8 @@ please add the cred.json file to the session folder
 
 
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/Limule3650/Death-Raphael-bug/fork)***
-3. ***[PAIR-CODE](https://toge-md-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
+2. ***Click [FORK](https://github.com/trisntan madara bug/fork)***
+3. ***[PAIR-CODE](https://carnage-md-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
     <br>
     
 5. ***[QR-CODE](https://gpt-qr-code.onrender.com) `Whatapp>Three dots>Linked Devices`***
